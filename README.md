@@ -126,13 +126,3 @@ PYTHONUNBUFFERED=1            # Output em tempo real
 ## 📄 **Licença**
 
 Este projeto é open source e está disponível sob a licença MIT.
-
-## 🆘 **Suporte**
-
-- 📧 **Issues**: Use o GitHub Issues para reportar problemas
-- 📚 **Wiki**: Documentação completa no repositório
-- 🔧 **Debug**: Ative logs detalhados para troubleshooting
-
----
-
-> **💡 Dica**: Para melhor performance, use o modo Docker que já vem com todas as dependências configuradas!
