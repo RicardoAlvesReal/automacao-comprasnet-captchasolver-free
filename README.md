@@ -33,7 +33,7 @@ python comprasnet_download_automatico.py
 ## 🛠️ **Tecnologias Utilizadas**
 
 - **Python 3.11+** - Linguagem principal
-- **Selenium** - Automação web
+- **Playwright** - Automação web moderna
 - **Tesseract OCR** - Reconhecimento de texto
 - **OpenCV** - Processamento de imagens
 - **Docker** - Containerização
@@ -96,7 +96,7 @@ PYTHONUNBUFFERED=1            # Output em tempo real
 ## 🔄 **Fluxo de Execução**
 
 1. **Carrega configurações** e URLs alvo
-2. **Acessa portal** ComprasNet via Selenium
+2. **Acessa portal** ComprasNet via Playwright
 3. **Detecta CAPTCHA** e aplica técnicas de processamento
 4. **Resolve automaticamente** usando OCR + ML
 5. **Baixa arquivos** e organiza com UUID
