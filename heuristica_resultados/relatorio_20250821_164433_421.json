@@ -1,0 +1,10 @@
+{
+  "timestamp": "20250821_164433_421",
+  "texto_final": "SMK",
+  "confianca_final": 0.2704502599926975,
+  "meta_atingida": false,
+  "tempo_total": 0.083027,
+  "eficiencia_score": 0.47088637266228517,
+  "analise": {
+    "tipo_captcha": "padrao_sombras",
+    "complexidade": 

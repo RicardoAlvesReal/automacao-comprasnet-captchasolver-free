@@ -1,0 +1,8 @@
+timestamp: 20250825_162423
+arquivo_imagem: captcha_20250825_162423_Lt4Dqb.png
+captcha_resolvido: Lt4Dqb
+tamanho_buffer: 22150
+data_hora: 25/08/2025 16:24:23
+status_inicial: capturado
+confianca: 0.9162544830009676
+origem: monitor popup

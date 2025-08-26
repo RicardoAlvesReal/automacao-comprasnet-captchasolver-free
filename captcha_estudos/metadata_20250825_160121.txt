@@ -1,0 +1,8 @@
+timestamp: 20250825_160121
+arquivo_imagem: captcha_20250825_160121_XChFTR.png
+captcha_resolvido: XChFTR
+tamanho_buffer: 21298
+data_hora: 25/08/2025 16:01:21
+status_inicial: capturado
+confianca: 0.3850305334183354
+origem: monitor popup

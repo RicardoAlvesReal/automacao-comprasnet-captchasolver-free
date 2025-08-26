@@ -1,0 +1,8 @@
+timestamp: 20250825_152244
+arquivo_imagem: captcha_20250825_152244_Cshoog.png
+captcha_resolvido: Cshoog
+tamanho_buffer: 20964
+data_hora: 25/08/2025 15:22:44
+status_inicial: capturado
+confianca: 0.8183845779175088
+origem: monitor popup

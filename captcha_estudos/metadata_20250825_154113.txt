@@ -1,0 +1,8 @@
+timestamp: 20250825_154113
+arquivo_imagem: captcha_20250825_154113_TNYdk.png
+captcha_resolvido: TNYdk
+tamanho_buffer: 19507
+data_hora: 25/08/2025 15:41:13
+status_inicial: capturado
+confianca: 0.3308069161498044
+origem: monitor popup

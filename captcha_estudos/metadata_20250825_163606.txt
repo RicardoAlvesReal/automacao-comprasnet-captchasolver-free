@@ -1,0 +1,8 @@
+timestamp: 20250825_163606
+arquivo_imagem: captcha_20250825_163606_T7Wlkz.png
+captcha_resolvido: T7Wlkz
+tamanho_buffer: 20003
+data_hora: 25/08/2025 16:36:06
+status_inicial: capturado
+confianca: 0.6339509288170947
+origem: monitor popup

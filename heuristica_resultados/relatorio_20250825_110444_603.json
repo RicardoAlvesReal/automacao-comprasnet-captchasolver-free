@@ -1,0 +1,25 @@
+{
+  "timestamp": "20250825_110444_603",
+  "texto_final": "",
+  "confianca_final": 0.0,
+  "meta_atingida": false,
+  "tempo_total": 0.01792,
+  "eficiencia_score": 0.30970133333333333,
+  "analise": {
+    "tipo_captcha": "distorcao_geom",
+    "complexidade": 44.19896697998047,
+    "estrategia": "morfologia_avancada",
+    "threshold": 75,
+    "confianca_analise": 0.9
+  },
+  "reconhecimento": {
+    "metodo_vencedor": "ensemble_voting",
+    "status_parada": "limite_tentativas",
+    "iteracoes": 6,
+    "candidatos_testados": 0
+  },
+  "melhorias_aplicadas": [
+    "threshold_otimizado_75",
+    "estrategia_avancada_morfologia_avancada"
+  ]
+}

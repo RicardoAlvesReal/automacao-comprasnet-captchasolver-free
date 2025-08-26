@@ -1,0 +1,8 @@
+timestamp: 20250822_161721
+arquivo_imagem: captcha_20250822_161721_sem_resposta.png
+captcha_resolvido: nao_resolvido
+tamanho_buffer: 0
+data_hora: 22/08/2025 16:17:21
+status_inicial: capturado
+erro: endpoint_incorreto
+url: /scripts/srf/intercepta/images/captcha.gif

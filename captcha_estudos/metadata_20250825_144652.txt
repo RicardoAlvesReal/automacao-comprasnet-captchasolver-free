@@ -1,0 +1,8 @@
+timestamp: 20250825_144652
+arquivo_imagem: captcha_20250825_144652_V4Dyw.png
+captcha_resolvido: V4Dyw
+tamanho_buffer: 12302
+data_hora: 25/08/2025 14:46:52
+status_inicial: capturado
+confianca: 0.7440930709729754
+origem: monitor popup

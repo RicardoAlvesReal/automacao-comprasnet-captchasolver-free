@@ -1,0 +1,8 @@
+timestamp: 20250825_153003
+arquivo_imagem: captcha_20250825_153003_L8Cma.png
+captcha_resolvido: L8Cma
+tamanho_buffer: 22182
+data_hora: 25/08/2025 15:30:03
+status_inicial: capturado
+confianca: 0.28856483542321293
+origem: monitor popup

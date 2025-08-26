@@ -1,0 +1,10 @@
+{
+  "timestamp": "20250821_164703_265",
+  "texto_final": "",
+  "confianca_final": 0.0,
+  "meta_atingida": false,
+  "tempo_total": 0.07029,
+  "eficiencia_score": 0.3088285,
+  "analise": {
+    "tipo_captcha": "simples_limpo",
+    "complexidade": 

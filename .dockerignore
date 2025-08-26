@@ -1,0 +1,61 @@
+# .dockerignore - Arquivos a serem ignorados no build do Docker
+
+# Diretórios desnecessários
+.venv/
+__pycache__/
+.git/
+.pip/
+temp_user_data/
+.pytest_cache/
+.coverage
+
+# Arquivos de log e temporários
+*.log
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.Python
+*.so
+.coverage
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Arquivos do VS Code
+.vscode/
+*.code-workspace
+
+# Arquivos específicos do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Arquivos de backup
+*.backup
+*.bak
+*.tmp
+
+# Grandes datasets que podem ser baixados novamente
+dataset_cnn_captcha/
+
+# Scripts de instalação local (não necessários no container)
+ativar.bat
+ativar.ps1
+executar.bat
+EXECUTAR_SEM_DIGITACAO.bat
+INICIAR_SISTEMA.bat
+configurar_docker_proxy_tjes.ps1
+instalar_docker_winget.ps1
+
+# Arquivos de configuração local
+config_ambiente.py
+
+# README e documentação markdown (opcional)
+*.md
+README*
+
+# Arquivos de exemplo/teste
+test_*
+exemplo_*

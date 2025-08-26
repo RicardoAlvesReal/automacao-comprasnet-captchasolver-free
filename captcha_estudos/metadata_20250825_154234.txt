@@ -1,0 +1,8 @@
+timestamp: 20250825_154234
+arquivo_imagem: captcha_20250825_154234_JeSEMS.png
+captcha_resolvido: JeSEMS
+tamanho_buffer: 21228
+data_hora: 25/08/2025 15:42:34
+status_inicial: capturado
+confianca: 0.6554165462267173
+origem: monitor popup

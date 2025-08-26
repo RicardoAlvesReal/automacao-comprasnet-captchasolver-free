@@ -1,0 +1,8 @@
+timestamp: 20250825_160030
+arquivo_imagem: captcha_20250825_160030_Aqmwtc.png
+captcha_resolvido: Aqmwtc
+tamanho_buffer: 12453
+data_hora: 25/08/2025 16:00:30
+status_inicial: capturado
+confianca: 0.7154165132801374
+origem: monitor popup

@@ -1,0 +1,8 @@
+timestamp: 20250825_153026
+arquivo_imagem: captcha_20250825_153026_MGDyta.png
+captcha_resolvido: MGDyta
+tamanho_buffer: 22592
+data_hora: 25/08/2025 15:30:26
+status_inicial: capturado
+confianca: 0.5372016981205385
+origem: monitor popup

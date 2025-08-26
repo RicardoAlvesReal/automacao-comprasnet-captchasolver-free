@@ -1,0 +1,8 @@
+timestamp: 20250825_144701
+arquivo_imagem: captcha_20250825_144701_Tay.png
+captcha_resolvido: Tay
+tamanho_buffer: 18278
+data_hora: 25/08/2025 14:47:01
+status_inicial: capturado
+confianca: 0.45
+origem: monitor popup

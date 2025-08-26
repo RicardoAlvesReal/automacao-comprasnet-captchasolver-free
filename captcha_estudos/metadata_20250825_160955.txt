@@ -1,0 +1,8 @@
+timestamp: 20250825_160955
+arquivo_imagem: captcha_20250825_160955_4CJd.png
+captcha_resolvido: 4CJd
+tamanho_buffer: 14035
+data_hora: 25/08/2025 16:09:55
+status_inicial: capturado
+confianca: 0.6403611898422241
+origem: monitor popup

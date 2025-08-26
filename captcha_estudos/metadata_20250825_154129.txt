@@ -1,0 +1,8 @@
+timestamp: 20250825_154129
+arquivo_imagem: captcha_20250825_154129_YchHuk.png
+captcha_resolvido: YchHuk
+tamanho_buffer: 21108
+data_hora: 25/08/2025 15:41:29
+status_inicial: capturado
+confianca: 0.7362987864577814
+origem: monitor popup

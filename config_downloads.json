@@ -1,0 +1,92 @@
+{
+  "configuracao_downloads": {
+    "descricao": "Configuração para downloads automáticos de licitações ComprasNet",
+    "periodo": {
+      "data_inicio": "01/01/2023",
+      "data_fim": "auto",
+      "comentario": "data_fim = 'auto' usa data atual"
+    },
+    "parametros_consulta": {
+      "modalidades": "1,2,3,20,5,99",
+      "concorrencias": "31,32,41,42,49", 
+      "pregoes": "1,2,3,4",
+      "rdc": "1,2,3,4",
+      "estado": "ES",
+      "municipio": "57053",
+      "uasg": "925968",
+      "grupo_material": "70"
+    },
+    "configuracao_navegador": {
+      "headless": false,
+      "timeout_pagina": 30000,
+      "aguardar_entre_acoes": {
+        "min": 2,
+        "max": 5
+      },
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+    "captcha_config": {
+      "usar_heuristica": true,
+      "confianca_minima": 0.98,
+      "tentativas_maximas": 3,
+      "timeout_resolucao": 30
+    },
+    "downloads": {
+      "diretorio": "downloads_licitacoes",
+      "salvar_logs": true,
+      "salvar_progresso": true
+    }
+  },
+  "modalidades_disponiveis": {
+    "1": "Convite",
+    "2": "Tomada de Preços",
+    "3": "Concorrência",
+    "5": "Pregão",
+    "20": "Dispensa de Licitação",
+    "99": "Outras"
+  },
+  "tipos_concorrencia": {
+    "31": "Nacional",
+    "32": "Internacional", 
+    "41": "Nacional Simplificada",
+    "42": "Internacional Simplificada",
+    "49": "Outras"
+  },
+  "tipos_pregao": {
+    "1": "Eletrônico",
+    "2": "Presencial",
+    "3": "Sistema de Registro de Preços", 
+    "4": "Outros"
+  },
+  "tipos_rdc": {
+    "1": "Eletrônico",
+    "2": "Presencial",
+    "3": "Sistema de Registro de Preços",
+    "4": "Outros"
+  },
+  "estados_brasil": {
+    "ES": "Espírito Santo",
+    "SP": "São Paulo",
+    "RJ": "Rio de Janeiro",
+    "MG": "Minas Gerais"
+  },
+  "instrucoes": {
+    "como_usar": [
+      "1. Ajuste os parâmetros em 'parametros_consulta' conforme necessário",
+      "2. Configure o período em 'periodo'",
+      "3. Execute: python executar_downloads.py",
+      "4. O sistema dividirá automaticamente em períodos de 15 dias",
+      "5. CAPTCHAs serão resolvidos automaticamente com 98%+ confiança"
+    ],
+    "personalizacao": [
+      "Para outros estados: altere 'estado', 'municipio' e 'uasg'",
+      "Para outras modalidades: ajuste os códigos conforme tabelas acima",
+      "Para outros grupos de material: consulte tabela ComprasNet"
+    ],
+    "solucao_problemas": [
+      "Se CAPTCHAs falharem: verifique sistema heurístico",
+      "Se downloads pararem: verifique progresso_downloads.json",
+      "Para retomar: execute novamente, sistema continua automaticamente"
+    ]
+  }
+}

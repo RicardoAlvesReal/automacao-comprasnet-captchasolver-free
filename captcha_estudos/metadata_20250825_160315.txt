@@ -1,0 +1,8 @@
+timestamp: 20250825_160315
+arquivo_imagem: captcha_20250825_160315_VKJzy.png
+captcha_resolvido: VKJzy
+tamanho_buffer: 12960
+data_hora: 25/08/2025 16:03:15
+status_inicial: capturado
+confianca: 0.5176063754847502
+origem: monitor popup

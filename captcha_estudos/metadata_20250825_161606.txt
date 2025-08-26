@@ -1,0 +1,8 @@
+timestamp: 20250825_161606
+arquivo_imagem: captcha_20250825_161606_OES.png
+captcha_resolvido: OES
+tamanho_buffer: 14232
+data_hora: 25/08/2025 16:16:06
+status_inicial: capturado
+confianca: 0.28
+origem: monitor popup

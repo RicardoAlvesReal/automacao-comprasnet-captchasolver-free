@@ -1,0 +1,10 @@
+{
+  "timestamp": "20250821_165040_240",
+  "texto_final": "ACNKS",
+  "confianca_final": 0.41440840486361313,
+  "meta_atingida": false,
+  "tempo_total": 0.119975,
+  "eficiencia_score": 0.5566454595848345,
+  "analise": {
+    "tipo_captcha": "simples_limpo",
+    "complexidade": 

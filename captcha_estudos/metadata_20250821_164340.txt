@@ -1,0 +1,25 @@
+timestamp: 20250821_164340
+arquivo_imagem: captcha_20250821_164340_sem_resposta.png
+captcha_resolvido: nao_resolvido
+tamanho_buffer: 12357
+data_hora: 21/08/2025 16:43:40
+status_inicial: capturado
+url_origem: https://comprasnet.gov.br/ConsultaLicitacoes/Download/Download.asp?coduasg=925968&numprp=900442025&modprp=5&bidbird=N
+captcha_src: /scripts/srf/intercepta/captcha.aspx?opt=image
+metodo_captura: playwright_screenshot
+tamanho_imagem: 12357 bytes
+# RESULTADO DA VERIFICAÇÃO
+url_atual: https://comprasnet.gov.br/ConsultaLicitacoes/Download/Download.asp?coduasg=925968&numprp=900442025&modprp=5&bidbird=N
+timestamp_verificacao: 21/08/2025 16:44:26
+status_captcha: sucesso_download
+descricao: CAPTCHA correto - download iniciado
+# RESULTADO DA VERIFICAÇÃO
+url_atual: https://comprasnet.gov.br/ConsultaLicitacoes/Download/Download.asp?coduasg=925968&numprp=900442025&modprp=5&bidbird=N
+timestamp_verificacao: 21/08/2025 16:44:26
+status_captcha: sucesso_download
+descricao: CAPTCHA correto - download iniciado
+download_realizado: False
+erro_download: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================

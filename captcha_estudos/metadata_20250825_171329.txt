@@ -1,0 +1,8 @@
+timestamp: 20250825_171329
+arquivo_imagem: captcha_20250825_171329_PK3ica.png
+captcha_resolvido: PK3ica
+tamanho_buffer: 18596
+data_hora: 25/08/2025 17:13:29
+status_inicial: capturado
+confianca: 0.6742290435549522
+origem: monitor popup

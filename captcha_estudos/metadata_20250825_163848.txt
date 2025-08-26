@@ -1,0 +1,8 @@
+timestamp: 20250825_163848
+arquivo_imagem: captcha_20250825_163848_HZr9pw.png
+captcha_resolvido: HZr9pw
+tamanho_buffer: 25995
+data_hora: 25/08/2025 16:38:48
+status_inicial: capturado
+confianca: 0.40149156524200663
+origem: monitor popup

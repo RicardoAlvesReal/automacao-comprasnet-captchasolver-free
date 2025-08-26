@@ -1,0 +1,8 @@
+timestamp: 20250825_153037
+arquivo_imagem: captcha_20250825_153037_M4Qvdp.png
+captcha_resolvido: M4Qvdp
+tamanho_buffer: 23047
+data_hora: 25/08/2025 15:30:37
+status_inicial: capturado
+confianca: 0.5940122528032284
+origem: monitor popup

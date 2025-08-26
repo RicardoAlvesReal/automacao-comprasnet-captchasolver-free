@@ -1,0 +1,8 @@
+timestamp: 20250825_160047
+arquivo_imagem: captcha_20250825_160047_EGM761.png
+captcha_resolvido: EGM761
+tamanho_buffer: 20346
+data_hora: 25/08/2025 16:00:47
+status_inicial: capturado
+confianca: 0.7950270760076156
+origem: monitor popup

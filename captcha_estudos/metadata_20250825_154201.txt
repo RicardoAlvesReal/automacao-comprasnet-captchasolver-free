@@ -1,0 +1,8 @@
+timestamp: 20250825_154201
+arquivo_imagem: captcha_20250825_154201_Bv9tha.png
+captcha_resolvido: Bv9tha
+tamanho_buffer: 21134
+data_hora: 25/08/2025 15:42:01
+status_inicial: capturado
+confianca: 0.6278816377443548
+origem: monitor popup

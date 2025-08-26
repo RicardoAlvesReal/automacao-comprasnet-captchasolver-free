@@ -1,0 +1,8 @@
+timestamp: 20250825_144710
+arquivo_imagem: captcha_20250825_144710_apkkh.png
+captcha_resolvido: apkkh
+tamanho_buffer: 13776
+data_hora: 25/08/2025 14:47:10
+status_inicial: capturado
+confianca: 0.6587065985157609
+origem: monitor popup

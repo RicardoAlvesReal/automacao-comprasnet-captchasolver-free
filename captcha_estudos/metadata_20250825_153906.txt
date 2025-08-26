@@ -1,0 +1,8 @@
+timestamp: 20250825_153906
+arquivo_imagem: captcha_20250825_153906_WCar.png
+captcha_resolvido: WCar
+tamanho_buffer: 12513
+data_hora: 25/08/2025 15:39:06
+status_inicial: capturado
+confianca: 0.9899637699127197
+origem: monitor popup

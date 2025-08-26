@@ -1,0 +1,8 @@
+timestamp: 20250825_152307
+arquivo_imagem: captcha_20250825_152307_QgUiBR.png
+captcha_resolvido: QgUiBR
+tamanho_buffer: 18091
+data_hora: 25/08/2025 15:23:07
+status_inicial: capturado
+confianca: 0.8692434714621406
+origem: monitor popup

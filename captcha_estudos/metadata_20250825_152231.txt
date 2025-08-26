@@ -1,0 +1,8 @@
+timestamp: 20250825_152231
+arquivo_imagem: captcha_20250825_152231_mBczGl.png
+captcha_resolvido: mBczGl
+tamanho_buffer: 13964
+data_hora: 25/08/2025 15:22:31
+status_inicial: capturado
+confianca: 0.5004863557005081
+origem: monitor popup

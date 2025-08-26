@@ -1,0 +1,76 @@
+{
+  "threshold_config": {
+    "preto_puro_alto": 8,
+    "preto_puro_medio": 15,
+    "preto_puro_baixo": 50,
+    "padrao_comprovado": 85
+  },
+  "estrategias_refinadas": {
+    "simples_limpo": {
+      "threshold_primario": 10,
+      "metodos_preferidos": [
+        "treinamento_manual",
+        "easyocr_otimizado"
+      ],
+      "morfologia_leve": true
+    },
+    "padrao_sombras": {
+      "threshold_primario": 85,
+      "metodos_preferidos": [
+        "otimizada_treino",
+        "invertida_otimizada",
+        "tesseract_otimizado"
+      ],
+      "denoise_ativo": true
+    },
+    "distorcao_geom": {
+      "threshold_primario": 75,
+      "metodos_preferidos": [
+        "tesseract_custom",
+        "easyocr_alternativo"
+      ],
+      "super_resolution": true
+    },
+    "ruido_pesado": {
+      "threshold_primario": 40,
+      "metodos_preferidos": [
+        "morfologia_avancada",
+        "denoise_agressivo"
+      ],
+      "pipeline_completo": false
+    }
+  },
+  "ocr_configs": {
+    "easyocr_otimizado": {
+      "threshold": 0.08,
+      "width_ths": 0.8,
+      "paragraph": false,
+      "detail": 1
+    },
+    "tesseract_custom": {
+      "psm": 8,
+      "oem": 3,
+      "config": "-c tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"
+    }
+  },
+  "sistema_confianca": {
+    "meta_98_threshold": 0.98,
+    "meta_95_threshold": 0.95,
+    "meta_90_threshold": 0.9,
+    "peso_treinamento_manual": 1.2,
+    "peso_consensus_methods": 1.1,
+    "bonus_similaridade": 0.15,
+    "penalidade_incerteza": 0.05
+  },
+  "melhorias_implementar": [
+    "refinar_thresholds_por_tipo",
+    "implementar_feedback_adaptativo",
+    "otimizar_configuracoes_ocr"
+  ],
+  "estatisticas_base": {
+    "taxa_sucesso_atual": 78.57142857142857,
+    "total_analisado": 14,
+    "threshold_otimo": 85,
+    "data_analise": "2025-08-19T12:11:34.538828"
+  }
+}

@@ -1,0 +1,8 @@
+timestamp: 20250825_162511
+arquivo_imagem: captcha_20250825_162511_nGBzG.png
+captcha_resolvido: nGBzG
+tamanho_buffer: 14553
+data_hora: 25/08/2025 16:25:11
+status_inicial: capturado
+confianca: 0.5675291984236337
+origem: monitor popup

@@ -1,0 +1,8 @@
+timestamp: 20250825_155135
+arquivo_imagem: captcha_20250825_155135_aye.png
+captcha_resolvido: aye
+tamanho_buffer: 14000
+data_hora: 25/08/2025 15:51:35
+status_inicial: capturado
+confianca: 0.48
+origem: monitor popup

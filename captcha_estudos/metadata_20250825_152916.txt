@@ -1,0 +1,8 @@
+timestamp: 20250825_152916
+arquivo_imagem: captcha_20250825_152916_mayxLY.png
+captcha_resolvido: mayxLY
+tamanho_buffer: 14631
+data_hora: 25/08/2025 15:29:16
+status_inicial: capturado
+confianca: 0.47575567619766534
+origem: monitor popup

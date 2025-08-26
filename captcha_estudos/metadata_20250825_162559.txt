@@ -1,0 +1,8 @@
+timestamp: 20250825_162559
+arquivo_imagem: captcha_20250825_162559_grrits.png
+captcha_resolvido: grrits
+tamanho_buffer: 13385
+data_hora: 25/08/2025 16:25:59
+status_inicial: capturado
+confianca: 0.8730784421386323
+origem: monitor popup

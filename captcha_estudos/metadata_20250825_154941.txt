@@ -1,0 +1,8 @@
+timestamp: 20250825_154941
+arquivo_imagem: captcha_20250825_154941_NKGH.png
+captcha_resolvido: NKGH
+tamanho_buffer: 13244
+data_hora: 25/08/2025 15:49:41
+status_inicial: capturado
+confianca: 0.7006808519363403
+origem: monitor popup

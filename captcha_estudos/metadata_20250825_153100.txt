@@ -1,0 +1,8 @@
+timestamp: 20250825_153100
+arquivo_imagem: captcha_20250825_153100_JNvn4.png
+captcha_resolvido: JNvn4
+tamanho_buffer: 13308
+data_hora: 25/08/2025 15:31:00
+status_inicial: capturado
+confianca: 0.9846599110608286
+origem: monitor popup

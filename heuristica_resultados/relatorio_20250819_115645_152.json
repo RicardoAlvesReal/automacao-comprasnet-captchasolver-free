@@ -1,0 +1,10 @@
+{
+  "timestamp": "20250819_115645_152",
+  "texto_final": "VOSKA",
+  "confianca_final": 0.10032003260395332,
+  "meta_atingida": false,
+  "tempo_total": 0.133476,
+  "eficiencia_score": 0.367967419562372,
+  "analise": {
+    "tipo_captcha": "padrao_sombras",
+    "complexidade": 

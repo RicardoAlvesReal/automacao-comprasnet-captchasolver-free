@@ -1,0 +1,8 @@
+timestamp: 20250825_144643
+arquivo_imagem: captcha_20250825_144643_ZTM3ML.png
+captcha_resolvido: ZTM3ML
+tamanho_buffer: 12056
+data_hora: 25/08/2025 14:46:43
+status_inicial: capturado
+confianca: 0.7722562606170154
+origem: monitor popup

@@ -1,0 +1,8 @@
+timestamp: 20250825_163356
+arquivo_imagem: captcha_20250825_163356_Opa.png
+captcha_resolvido: Opa
+tamanho_buffer: 11688
+data_hora: 25/08/2025 16:33:56
+status_inicial: capturado
+confianca: 0.53
+origem: monitor popup

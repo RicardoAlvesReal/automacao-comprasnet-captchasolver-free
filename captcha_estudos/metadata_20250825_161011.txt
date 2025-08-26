@@ -1,0 +1,8 @@
+timestamp: 20250825_161011
+arquivo_imagem: captcha_20250825_161011_FVF3ub.png
+captcha_resolvido: FVF3ub
+tamanho_buffer: 20487
+data_hora: 25/08/2025 16:10:11
+status_inicial: capturado
+confianca: 0.8789094259726322
+origem: monitor popup

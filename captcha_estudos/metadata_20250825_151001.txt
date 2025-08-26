@@ -1,0 +1,8 @@
+timestamp: 20250825_151001
+arquivo_imagem: captcha_20250825_151001_Awbras.png
+captcha_resolvido: Awbras
+tamanho_buffer: 12128
+data_hora: 25/08/2025 15:10:01
+status_inicial: capturado
+confianca: 0.9983008081694177
+origem: monitor popup

@@ -1,0 +1,8 @@
+timestamp: 20250825_161740
+arquivo_imagem: captcha_20250825_161740_KUBphb.png
+captcha_resolvido: KUBphb
+tamanho_buffer: 22508
+data_hora: 25/08/2025 16:17:40
+status_inicial: capturado
+confianca: 0.6586262891507021
+origem: monitor popup

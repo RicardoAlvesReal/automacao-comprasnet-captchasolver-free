@@ -1,0 +1,8 @@
+timestamp: 20250825_155013
+arquivo_imagem: captcha_20250825_155013_W79cS.png
+captcha_resolvido: W79cS
+tamanho_buffer: 22450
+data_hora: 25/08/2025 15:50:13
+status_inicial: capturado
+confianca: 0.28701587959348746
+origem: monitor popup

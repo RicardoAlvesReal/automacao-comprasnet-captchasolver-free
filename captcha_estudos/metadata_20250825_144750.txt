@@ -1,0 +1,8 @@
+timestamp: 20250825_144750
+arquivo_imagem: captcha_20250825_144750_2JB5Hy.png
+captcha_resolvido: 2JB5Hy
+tamanho_buffer: 13643
+data_hora: 25/08/2025 14:47:50
+status_inicial: capturado
+confianca: 0.6362655307308107
+origem: monitor popup

@@ -1,0 +1,8 @@
+timestamp: 20250825_144834
+arquivo_imagem: captcha_20250825_144834_KUsPn1.png
+captcha_resolvido: KUsPn1
+tamanho_buffer: 25920
+data_hora: 25/08/2025 14:48:34
+status_inicial: capturado
+confianca: 0.47963150682636885
+origem: monitor popup

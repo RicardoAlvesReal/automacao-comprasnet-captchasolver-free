@@ -1,0 +1,8 @@
+timestamp: 20250825_152144
+arquivo_imagem: captcha_20250825_152144_JuKT.png
+captcha_resolvido: JuKT
+tamanho_buffer: 17472
+data_hora: 25/08/2025 15:21:44
+status_inicial: capturado
+confianca: 0.46252840757369995
+origem: monitor popup

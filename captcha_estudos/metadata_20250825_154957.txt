@@ -1,0 +1,8 @@
+timestamp: 20250825_154957
+arquivo_imagem: captcha_20250825_154957_VCfY.png
+captcha_resolvido: VCfY
+tamanho_buffer: 12602
+data_hora: 25/08/2025 15:49:57
+status_inicial: capturado
+confianca: 0.41736443307541526
+origem: monitor popup

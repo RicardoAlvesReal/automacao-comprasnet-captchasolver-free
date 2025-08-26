@@ -1,0 +1,8 @@
+timestamp: 20250825_160938
+arquivo_imagem: captcha_20250825_160938_syytAs.png
+captcha_resolvido: syytAs
+tamanho_buffer: 12011
+data_hora: 25/08/2025 16:09:38
+status_inicial: capturado
+confianca: 0.4604950558277468
+origem: monitor popup

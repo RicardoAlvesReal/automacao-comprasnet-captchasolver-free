@@ -1,0 +1,8 @@
+timestamp: 20250825_155046
+arquivo_imagem: captcha_20250825_155046_Ewxu8k.png
+captcha_resolvido: Ewxu8k
+tamanho_buffer: 20622
+data_hora: 25/08/2025 15:50:46
+status_inicial: capturado
+confianca: 0.888423973151445
+origem: monitor popup

@@ -1,0 +1,8 @@
+timestamp: 20250825_162400
+arquivo_imagem: captcha_20250825_162400_soy.png
+captcha_resolvido: soy
+tamanho_buffer: 11734
+data_hora: 25/08/2025 16:24:00
+status_inicial: capturado
+confianca: 0.43
+origem: monitor popup

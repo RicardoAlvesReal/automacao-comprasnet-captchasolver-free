@@ -1,0 +1,8 @@
+timestamp: 20250825_171225
+arquivo_imagem: captcha_20250825_171225_7Ae4MVq.png
+captcha_resolvido: 7Ae4MVq
+tamanho_buffer: 17676
+data_hora: 25/08/2025 17:12:25
+status_inicial: capturado
+confianca: 0.3778771276636318
+origem: monitor popup

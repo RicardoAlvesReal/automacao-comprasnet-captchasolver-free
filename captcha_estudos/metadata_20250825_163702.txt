@@ -1,0 +1,8 @@
+timestamp: 20250825_163702
+arquivo_imagem: captcha_20250825_163702_ASax.png
+captcha_resolvido: ASax
+tamanho_buffer: 11735
+data_hora: 25/08/2025 16:37:02
+status_inicial: capturado
+confianca: 0.3783775866031647
+origem: monitor popup

@@ -1,0 +1,8 @@
+timestamp: 20250825_161630
+arquivo_imagem: captcha_20250825_161630_PSB.png
+captcha_resolvido: PSB
+tamanho_buffer: 14238
+data_hora: 25/08/2025 16:16:30
+status_inicial: capturado
+confianca: 0.27
+origem: monitor popup

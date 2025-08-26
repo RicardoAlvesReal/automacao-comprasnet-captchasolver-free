@@ -1,0 +1,8 @@
+timestamp: 20250825_144738
+arquivo_imagem: captcha_20250825_144738_QCaFy.png
+captcha_resolvido: QCaFy
+tamanho_buffer: 17977
+data_hora: 25/08/2025 14:47:38
+status_inicial: capturado
+confianca: 0.8329589697302003
+origem: monitor popup

@@ -1,0 +1,8 @@
+timestamp: 20250825_153049
+arquivo_imagem: captcha_20250825_153049_Sne.png
+captcha_resolvido: Sne
+tamanho_buffer: 18850
+data_hora: 25/08/2025 15:30:49
+status_inicial: capturado
+confianca: 0.9500579813607746
+origem: monitor popup

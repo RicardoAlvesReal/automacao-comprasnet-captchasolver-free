@@ -1,0 +1,22 @@
+{
+  "timestamp": "20250821_165912_070",
+  "texto_final": "",
+  "confianca_final": 0.0,
+  "meta_atingida": false,
+  "tempo_total": 0.10451,
+  "eficiencia_score": 0.30825816666666667,
+  "analise": {
+    "tipo_captcha": "simples_limpo",
+    "complexidade": 46.706153869628906,
+    "estrategia": "threshold_simples",
+    "threshold": 85,
+    "confianca_analise": 0.98
+  },
+  "reconhecimento": {
+    "metodo_vencedor": "ensemble_voting",
+    "status_parada": "limite_tentativas",
+    "iteracoes": 6,
+    "candidatos_testados": 0
+  },
+  "melhorias_aplicadas": []
+}

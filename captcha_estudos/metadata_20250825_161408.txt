@@ -1,0 +1,8 @@
+timestamp: 20250825_161408
+arquivo_imagem: captcha_20250825_161408_HANG.png
+captcha_resolvido: HANG
+tamanho_buffer: 17843
+data_hora: 25/08/2025 16:14:08
+status_inicial: capturado
+confianca: 0.31
+origem: monitor popup

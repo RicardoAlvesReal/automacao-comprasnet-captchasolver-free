@@ -1,0 +1,8 @@
+timestamp: 20250825_154924
+arquivo_imagem: captcha_20250825_154924_BcBsvp.png
+captcha_resolvido: BcBsvp
+tamanho_buffer: 21044
+data_hora: 25/08/2025 15:49:24
+status_inicial: capturado
+confianca: 0.6935124978412054
+origem: monitor popup

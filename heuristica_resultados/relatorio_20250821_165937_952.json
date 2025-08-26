@@ -1,0 +1,24 @@
+{
+  "timestamp": "20250821_165937_952",
+  "texto_final": "MRFBI",
+  "confianca_final": 0.4766108626022357,
+  "meta_atingida": false,
+  "tempo_total": 0.090338,
+  "eficiencia_score": 0.5944608842280081,
+  "analise": {
+    "tipo_captcha": "simples_limpo",
+    "complexidade": 50.37851333618164,
+    "estrategia": "threshold_simples",
+    "threshold": 50,
+    "confianca_analise": 0.98
+  },
+  "reconhecimento": {
+    "metodo_vencedor": "easyocr_otimizado",
+    "status_parada": "limite_tentativas",
+    "iteracoes": 6,
+    "candidatos_testados": 1
+  },
+  "melhorias_aplicadas": [
+    "threshold_otimizado_50"
+  ]
+}

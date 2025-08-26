@@ -1,0 +1,8 @@
+timestamp: 20250825_155029
+arquivo_imagem: captcha_20250825_155029_RgFduv.png
+captcha_resolvido: RgFduv
+tamanho_buffer: 19340
+data_hora: 25/08/2025 15:50:29
+status_inicial: capturado
+confianca: 0.5482246920127414
+origem: monitor popup

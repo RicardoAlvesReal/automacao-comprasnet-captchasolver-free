@@ -1,0 +1,8 @@
+timestamp: 20250825_152950
+arquivo_imagem: captcha_20250825_152950_EgPxAY.png
+captcha_resolvido: EgPxAY
+tamanho_buffer: 20477
+data_hora: 25/08/2025 15:29:50
+status_inicial: capturado
+confianca: 0.6586807982212014
+origem: monitor popup

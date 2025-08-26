@@ -1,0 +1,8 @@
+timestamp: 20250825_150158
+arquivo_imagem: captcha_20250825_150158_DQswtM.png
+captcha_resolvido: DQswtM
+tamanho_buffer: 21003
+data_hora: 25/08/2025 15:01:58
+status_inicial: capturado
+confianca: 0.4464972440891212
+origem: monitor popup

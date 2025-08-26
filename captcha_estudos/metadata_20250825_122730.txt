@@ -1,0 +1,8 @@
+timestamp: 20250825_122730
+arquivo_imagem: captcha_20250825_122730_sem_resposta.png
+captcha_resolvido: nao_resolvido
+tamanho_buffer: 18839
+data_hora: 25/08/2025 12:27:30
+status_inicial: capturado
+confianca: 0.0
+origem: monitor popup

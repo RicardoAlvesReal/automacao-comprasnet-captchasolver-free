@@ -1,0 +1,8 @@
+timestamp: 20250825_152255
+arquivo_imagem: captcha_20250825_152255_YNuScP.png
+captcha_resolvido: YNuScP
+tamanho_buffer: 19080
+data_hora: 25/08/2025 15:22:55
+status_inicial: capturado
+confianca: 0.6150461350187464
+origem: monitor popup

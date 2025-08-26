@@ -1,0 +1,8 @@
+timestamp: 20250825_154040
+arquivo_imagem: captcha_20250825_154040_FMkakd.png
+captcha_resolvido: FMkakd
+tamanho_buffer: 20223
+data_hora: 25/08/2025 15:40:40
+status_inicial: capturado
+confianca: 0.5138671410120143
+origem: monitor popup

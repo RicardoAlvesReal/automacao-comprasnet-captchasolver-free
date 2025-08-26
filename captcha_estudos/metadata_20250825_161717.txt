@@ -1,0 +1,8 @@
+timestamp: 20250825_161717
+arquivo_imagem: captcha_20250825_161717_s212Uj.png
+captcha_resolvido: s212Uj
+tamanho_buffer: 12884
+data_hora: 25/08/2025 16:17:17
+status_inicial: capturado
+confianca: 0.6773942779065328
+origem: monitor popup

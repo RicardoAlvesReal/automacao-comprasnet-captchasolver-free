@@ -1,0 +1,13 @@
+timestamp: 20250821_165920
+arquivo_imagem: captcha_20250821_165920_sem_resposta.png
+captcha_resolvido: nao_resolvido
+tamanho_buffer: 14481
+data_hora: 21/08/2025 16:59:20
+status_inicial: capturado
+url_origem: https://comprasnet.gov.br/ConsultaLicitacoes/Download/Download.asp?coduasg=925968&numprp=900442025&modprp=5&bidbird=N
+captcha_src: /scripts/srf/intercepta/captcha.aspx?opt=image
+metodo_captura: playwright_screenshot
+tamanho_imagem: 14481 bytes
+# RESULTADO DA VERIFICAÇÃO
+status_captcha: erro_resolucao
+descricao: Não foi possível resolver automaticamente

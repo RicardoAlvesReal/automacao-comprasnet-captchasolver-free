@@ -1,0 +1,8 @@
+timestamp: 20250825_160210
+arquivo_imagem: captcha_20250825_160210_QLKqPe.png
+captcha_resolvido: QLKqPe
+tamanho_buffer: 18235
+data_hora: 25/08/2025 16:02:10
+status_inicial: capturado
+confianca: 0.5867388665646841
+origem: monitor popup

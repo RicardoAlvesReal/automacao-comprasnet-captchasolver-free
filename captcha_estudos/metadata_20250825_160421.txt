@@ -1,0 +1,8 @@
+timestamp: 20250825_160421
+arquivo_imagem: captcha_20250825_160421_JCgka.png
+captcha_resolvido: JCgka
+tamanho_buffer: 22088
+data_hora: 25/08/2025 16:04:21
+status_inicial: capturado
+confianca: 0.747194215950867
+origem: monitor popup

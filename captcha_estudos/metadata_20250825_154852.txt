@@ -1,0 +1,8 @@
+timestamp: 20250825_154852
+arquivo_imagem: captcha_20250825_154852_Uae.png
+captcha_resolvido: Uae
+tamanho_buffer: 18922
+data_hora: 25/08/2025 15:48:52
+status_inicial: capturado
+confianca: 0.34
+origem: monitor popup

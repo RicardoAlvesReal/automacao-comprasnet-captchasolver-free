@@ -1,0 +1,8 @@
+timestamp: 20250822_161251
+arquivo_imagem: captcha_20250822_161251_sem_resposta.png
+captcha_resolvido: nao_resolvido
+tamanho_buffer: 210
+data_hora: 22/08/2025 16:12:51
+status_inicial: capturado
+confianca: None
+origem: popup falho

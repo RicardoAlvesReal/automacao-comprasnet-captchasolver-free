@@ -1,0 +1,8 @@
+timestamp: 20250825_162624
+arquivo_imagem: captcha_20250825_162624_JZ5y6.png
+captcha_resolvido: JZ5y6
+tamanho_buffer: 21936
+data_hora: 25/08/2025 16:26:24
+status_inicial: capturado
+confianca: 0.6656829194527262
+origem: monitor popup

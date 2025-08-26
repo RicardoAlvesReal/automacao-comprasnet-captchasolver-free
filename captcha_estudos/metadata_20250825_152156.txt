@@ -1,0 +1,8 @@
+timestamp: 20250825_152156
+arquivo_imagem: captcha_20250825_152156_R4SRHI.png
+captcha_resolvido: R4SRHI
+tamanho_buffer: 19572
+data_hora: 25/08/2025 15:21:56
+status_inicial: capturado
+confianca: 0.7241201302412447
+origem: monitor popup

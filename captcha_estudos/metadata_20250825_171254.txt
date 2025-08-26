@@ -1,0 +1,8 @@
+timestamp: 20250825_171254
+arquivo_imagem: captcha_20250825_171254_ti3xND.png
+captcha_resolvido: ti3xND
+tamanho_buffer: 12836
+data_hora: 25/08/2025 17:12:54
+status_inicial: capturado
+confianca: 0.7999999999999999
+origem: monitor popup

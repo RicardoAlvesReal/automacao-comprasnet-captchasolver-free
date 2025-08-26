@@ -1,0 +1,8 @@
+timestamp: 20250825_154836
+arquivo_imagem: captcha_20250825_154836_BRBaNVV.png
+captcha_resolvido: BRBaNVV
+tamanho_buffer: 20812
+data_hora: 25/08/2025 15:48:36
+status_inicial: capturado
+confianca: 0.9325054633821551
+origem: monitor popup

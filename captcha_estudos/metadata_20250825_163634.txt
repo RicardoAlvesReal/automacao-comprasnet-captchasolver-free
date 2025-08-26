@@ -1,0 +1,8 @@
+timestamp: 20250825_163634
+arquivo_imagem: captcha_20250825_163634_PX9Q3l.png
+captcha_resolvido: PX9Q3l
+tamanho_buffer: 14614
+data_hora: 25/08/2025 16:36:34
+status_inicial: capturado
+confianca: 0.2654591318895357
+origem: monitor popup

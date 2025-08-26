@@ -1,0 +1,8 @@
+timestamp: 20250825_154908
+arquivo_imagem: captcha_20250825_154908_St76.png
+captcha_resolvido: St76
+tamanho_buffer: 12496
+data_hora: 25/08/2025 15:49:08
+status_inicial: capturado
+confianca: 0.9155834913253784
+origem: monitor popup

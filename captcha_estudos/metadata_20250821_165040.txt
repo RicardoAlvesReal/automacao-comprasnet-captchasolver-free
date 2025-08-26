@@ -1,0 +1,17 @@
+timestamp: 20250821_165040
+arquivo_imagem: captcha_20250821_165040_sem_resposta.png
+captcha_resolvido: nao_resolvido
+tamanho_buffer: 14557
+data_hora: 21/08/2025 16:50:40
+status_inicial: capturado
+url_origem: https://comprasnet.gov.br/ConsultaLicitacoes/Download/Download.asp?coduasg=925968&numprp=900442025&modprp=5&bidbird=N
+captcha_src: /scripts/srf/intercepta/captcha.aspx?opt=image
+metodo_captura: playwright_screenshot
+tamanho_imagem: 14557 bytes
+# RESULTADO DA VERIFICAÇÃO
+status_captcha: sucesso_download_confirmado
+download_realizado: True
+nome_arquivo_download: 92596805900442025000.zip
+descricao: CAPTCHA resolvido com sucesso - download realizado
+url_atual: https://comprasnet.gov.br/ConsultaLicitacoes/Download/Download.asp?coduasg=925968&numprp=900442025&modprp=5&bidbird=N
+timestamp_verificacao: 21/08/2025 16:51:00

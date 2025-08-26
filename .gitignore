@@ -1,0 +1,35 @@
+# Ambientes virtuais
+.venv/
+.pip/
+__pycache__/
+
+# Debug e logs
+debug_sistema/
+downloads_automaticos.log
+*.log
+
+# Dados temporários
+temp_*/
+
+# Modelos treinados (muito grandes)
+models/
+models_cnn_ocr/
+*.joblib
+
+# Dados de treinamento
+dataset_cnn_captcha/
+
+# Downloads
+downloads_licitacoes/
+
+# Screenshots individuais de debug
+debug_*.png
+teste_*.png
+captcha_teste_*.png
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Configurações específicas do usuário
+config_usuario_*.json

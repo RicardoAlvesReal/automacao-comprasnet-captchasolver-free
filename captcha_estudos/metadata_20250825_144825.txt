@@ -1,0 +1,8 @@
+timestamp: 20250825_144825
+arquivo_imagem: captcha_20250825_144825_aaah.png
+captcha_resolvido: aaah
+tamanho_buffer: 13624
+data_hora: 25/08/2025 14:48:25
+status_inicial: capturado
+confianca: 0.27
+origem: monitor popup

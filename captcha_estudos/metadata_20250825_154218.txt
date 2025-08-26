@@ -1,0 +1,8 @@
+timestamp: 20250825_154218
+arquivo_imagem: captcha_20250825_154218_AvRSck.png
+captcha_resolvido: AvRSck
+tamanho_buffer: 12153
+data_hora: 25/08/2025 15:42:18
+status_inicial: capturado
+confianca: 0.873293734654139
+origem: monitor popup

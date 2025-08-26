@@ -1,0 +1,8 @@
+timestamp: 20250825_160403
+arquivo_imagem: captcha_20250825_160403_AaAgdl.png
+captcha_resolvido: AaAgdl
+tamanho_buffer: 12451
+data_hora: 25/08/2025 16:04:03
+status_inicial: capturado
+confianca: 0.9934845031329915
+origem: monitor popup

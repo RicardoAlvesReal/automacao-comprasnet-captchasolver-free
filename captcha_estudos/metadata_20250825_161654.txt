@@ -1,0 +1,8 @@
+timestamp: 20250825_161654
+arquivo_imagem: captcha_20250825_161654_KAZc7n.png
+captcha_resolvido: KAZc7n
+tamanho_buffer: 22058
+data_hora: 25/08/2025 16:16:54
+status_inicial: capturado
+confianca: 0.6685100115538746
+origem: monitor popup

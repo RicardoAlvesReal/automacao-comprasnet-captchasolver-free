@@ -1,0 +1,8 @@
+timestamp: 20250825_144816
+arquivo_imagem: captcha_20250825_144816_KTktts.png
+captcha_resolvido: KTktts
+tamanho_buffer: 13312
+data_hora: 25/08/2025 14:48:16
+status_inicial: capturado
+confianca: 0.8692932934440076
+origem: monitor popup

@@ -1,0 +1,8 @@
+timestamp: 20250825_163753
+arquivo_imagem: captcha_20250825_163753_7cj226.png
+captcha_resolvido: 7cj226
+tamanho_buffer: 17074
+data_hora: 25/08/2025 16:37:53
+status_inicial: capturado
+confianca: 0.7315249692936283
+origem: monitor popup

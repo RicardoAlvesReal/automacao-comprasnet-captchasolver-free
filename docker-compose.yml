@@ -1,0 +1,83 @@
+# AVISO: CASO ESTE ARQUIVO SEJA DESNECESSÁRIO FAVOR IGNORAR!
+# Docker Compose para Sistema ComprasNet
+# Facilita a execução e configuração do container
+
+version: '3.8'
+
+services:
+  comprasnet-downloader:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: comprasnet-auto
+    restart: unless-stopped
+    
+    # Variáveis de ambiente
+    environment:
+      - TZ=America/Sao_Paulo
+      - PYTHONUNBUFFERED=1
+    
+    # Volumes para persistir dados
+    volumes:
+      - ./downloads_licitacoes:/app/downloads_licitacoes
+      - ./debug_sistema:/app/debug_sistema
+      - ./captchas_limpos:/app/captchas_limpos
+      - ./captchas_processados:/app/captchas_processados
+      - ./heuristica_resultados:/app/heuristica_resultados
+      - ./models:/app/models
+      - ./progresso_downloads.json:/app/progresso_downloads.json
+      - ./downloads_automaticos.log:/app/downloads_automaticos.log
+    
+    # Rede (caso precise de conectividade específica)
+    networks:
+      - comprasnet-network
+    
+    # Recursos (ajuste conforme necessário)
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+          cpus: '1.0'
+        reservations:
+          memory: 1G
+          cpus: '0.5'
+    
+    # Health check
+    healthcheck:
+      test: ["CMD", "python", "-c", "import sys; sys.exit(0)"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+# Rede personalizada
+networks:
+  comprasnet-network:
+    driver: bridge
+
+# ======================================================================
+# COMANDOS ÚTEIS:
+# ======================================================================
+#
+# 1. INICIAR TUDO:
+#    docker-compose up -d
+#
+# 2. VER LOGS:
+#    docker-compose logs -f
+#
+# 3. PARAR TUDO:
+#    docker-compose down
+#
+# 4. REBUILD:
+#    docker-compose up -d --build
+#
+# 5. STATUS:
+#    docker-compose ps
+#
+# 6. EXECUTAR COMANDO NO CONTAINER:
+#    docker-compose exec comprasnet-downloader bash
+#
+# 7. LIMPAR TUDO:
+#    docker-compose down -v --rmi all
+#
+# ======================================================================

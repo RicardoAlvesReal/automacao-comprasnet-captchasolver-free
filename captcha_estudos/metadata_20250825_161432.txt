@@ -1,0 +1,8 @@
+timestamp: 20250825_161432
+arquivo_imagem: captcha_20250825_161432_AGVuUt.png
+captcha_resolvido: AGVuUt
+tamanho_buffer: 12525
+data_hora: 25/08/2025 16:14:32
+status_inicial: capturado
+confianca: 0.3825206530649629
+origem: monitor popup

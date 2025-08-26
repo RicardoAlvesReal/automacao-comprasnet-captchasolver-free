@@ -1,0 +1,8 @@
+timestamp: 20250825_162536
+arquivo_imagem: captcha_20250825_162536_pw8ws.png
+captcha_resolvido: pw8ws
+tamanho_buffer: 12799
+data_hora: 25/08/2025 16:25:36
+status_inicial: capturado
+confianca: 0.6470552207840026
+origem: monitor popup

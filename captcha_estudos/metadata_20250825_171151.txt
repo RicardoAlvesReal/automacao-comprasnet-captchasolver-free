@@ -1,0 +1,8 @@
+timestamp: 20250825_171151
+arquivo_imagem: captcha_20250825_171151_iSwFLE.png
+captcha_resolvido: iSwFLE
+tamanho_buffer: 13555
+data_hora: 25/08/2025 17:11:51
+status_inicial: capturado
+confianca: 0.6860161496321773
+origem: monitor popup

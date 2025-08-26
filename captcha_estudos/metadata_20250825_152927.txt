@@ -1,0 +1,8 @@
+timestamp: 20250825_152927
+arquivo_imagem: captcha_20250825_152927_cae.png
+captcha_resolvido: cae
+tamanho_buffer: 18913
+data_hora: 25/08/2025 15:29:27
+status_inicial: capturado
+confianca: 0.26
+origem: monitor popup

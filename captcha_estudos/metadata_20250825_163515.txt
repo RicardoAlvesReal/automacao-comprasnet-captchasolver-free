@@ -1,0 +1,8 @@
+timestamp: 20250825_163515
+arquivo_imagem: captcha_20250825_163515_AON.png
+captcha_resolvido: AON
+tamanho_buffer: 14240
+data_hora: 25/08/2025 16:35:15
+status_inicial: capturado
+confianca: 0.51
+origem: monitor popup

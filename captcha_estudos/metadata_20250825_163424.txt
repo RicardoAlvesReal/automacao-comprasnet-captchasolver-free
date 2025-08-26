@@ -1,0 +1,8 @@
+timestamp: 20250825_163424
+arquivo_imagem: captcha_20250825_163424_R6iNNQ.png
+captcha_resolvido: R6iNNQ
+tamanho_buffer: 17837
+data_hora: 25/08/2025 16:34:24
+status_inicial: capturado
+confianca: 0.6483674214746652
+origem: monitor popup
