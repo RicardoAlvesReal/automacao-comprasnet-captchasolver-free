@@ -6,13 +6,6 @@ Sistema avançado de resolução automática de CAPTCHA com análise inteligente
 e reconhecimento adaptativo para atingir 98%+ de confiança
 """
 
-# Configurar ambiente automaticamente
-try:
-    from config_ambiente import configurar_ambiente
-    configurar_ambiente()
-except ImportError:
-    print("⚠️ Arquivo config_ambiente.py não encontrado")
-
 import asyncio
 import logging
 import time
