@@ -735,8 +735,8 @@ class ComprasNetDownloadAutomatico:
                                 tentativas_captcha = 0
                                 download_realizado = False
                                 
-                                while tentativas_captcha < 15 and not download_realizado:
-                                    logger.info(f"🔄 Tentativa {tentativas_captcha+1}/15 de CAPTCHA")
+                                while tentativas_captcha < 30 and not download_realizado:
+                                    logger.info(f"🔄 Tentativa {tentativas_captcha+1}/30 de CAPTCHA")
                                     
                                     # Resolver CAPTCHA com sistema V2.0 otimizado
                                     sucesso_captcha = await self.resolver_captcha_heuristico_otimizado(popup_page)
@@ -950,11 +950,11 @@ class ComprasNetDownloadAutomatico:
             # Aguardar possível CAPTCHA aparecer
             await asyncio.sleep(2)
             
-            # Tentar resolver CAPTCHA até 15 vezes
+            # Tentar resolver CAPTCHA até 30 vezes
             tentativas_captcha = 0
             download = None
             
-            while tentativas_captcha < 15 and not download:
+            while tentativas_captcha < 30 and not download:
                 # Usar o sistema V2.0 otimizado para resolver o captcha
                 sucesso_captcha = await self.resolver_captcha_heuristico_otimizado(page)
                 
@@ -998,8 +998,8 @@ class ComprasNetDownloadAutomatico:
             
             # Tentar resolver CAPTCHA até 3 vezes (reduzido devido à alta precisão)
             tentativas_captcha = 0
-            while tentativas_captcha < 15:
-                logger.info(f"🎯 Tentativa {tentativas_captcha+1}/15 de resolução com heurística otimizada")
+            while tentativas_captcha < 30:
+                logger.info(f"🎯 Tentativa {tentativas_captcha+1}/30 de resolução com heurística otimizada")
                 
                 # Usar o sistema heurístico integrado
                 botao_confirmar = await self.resolver_captcha_heuristico_otimizado(nova_aba)
@@ -1020,7 +1020,7 @@ class ComprasNetDownloadAutomatico:
                     logger.warning(f"⚠️ Falha ao resolver CAPTCHA na tentativa {tentativas_captcha+1}")
                 
                 # Recarregar para nova tentativa (menos necessário com 98% de sucesso)
-                if tentativas_captcha < 14:  # Não recarregar na última tentativa (15-1)
+                if tentativas_captcha < 29:  # Não recarregar na última tentativa (30-1)
                     logger.info("🔄 Recarregando página para nova tentativa...")
                     await nova_aba.reload(wait_until="networkidle")
                     await asyncio.sleep(2)  # Tempo reduzido
@@ -1046,9 +1046,9 @@ class ComprasNetDownloadAutomatico:
                 logger.info("� Botão Download encontrado - tentando download direto...")
                 
                 # Tentar download direto até 3 vezes
-                for tentativa in range(15):
+                for tentativa in range(30):
                     try:
-                        logger.info(f"🔄 Tentativa {tentativa+1}/15 de download direto...")
+                        logger.info(f"🔄 Tentativa {tentativa+1}/30 de download direto...")
                         
                         # Aguardar download
                         async with nova_aba.expect_download(timeout=15000) as download_info:
@@ -1093,8 +1093,8 @@ class ComprasNetDownloadAutomatico:
                     
                     # Usar o sistema V2.0 otimizado para resolver o captcha na nova aba
                     tentativas_captcha = 0
-                    while tentativas_captcha < 15:
-                        logger.info(f"🔄 Tentativa {tentativas_captcha+1}/15 de resolução de CAPTCHA")
+                    while tentativas_captcha < 30:
+                        logger.info(f"🔄 Tentativa {tentativas_captcha+1}/30 de resolução de CAPTCHA")
                         
                         sucesso_captcha = await self.resolver_captcha_heuristico_otimizado(nova_aba)
                         
@@ -1115,7 +1115,7 @@ class ComprasNetDownloadAutomatico:
                             logger.warning(f"⚠️ Falha ao resolver CAPTCHA na tentativa {tentativas_captcha+1}")
                         
                         # Recarregar para nova tentativa
-                        if tentativas_captcha < 14:  # Não recarregar na última tentativa (15-1)
+                        if tentativas_captcha < 29:  # Não recarregar na última tentativa (30-1)
                             logger.info("🔄 Recarregando página para nova tentativa...")
                             await nova_aba.reload(wait_until="networkidle")
                             await asyncio.sleep(3)
